@@ -1,0 +1,20 @@
+{
+    "contenido":[
+        {
+            "tag":"saludo",
+            "patrones":["hola","un saludo", "como va"],
+            "respuestas":["Hola que tal", "Como te va?", "Un gusto de verte"]
+        },
+        {
+            "tag":"despedida",
+            "patrones":["adios","hasta la proxima","nos vemos"],
+            "respuestas":["cuidate","nos vemos pronto"]
+        },
+        {
+            "tag":"estado actual",
+            "patrones":["que hacias?", "donde estas?", "todo bien?"],
+            "respuestas":["nada, aca","laburando","rascandome la chota", "mirando tele", "todo bien", "todo para el orto"]
+        }
+
+    ]
+}
