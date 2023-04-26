@@ -1,20 +1,67 @@
 {
-    "contenido":[
+    "contenido": [
         {
-            "tag":"saludo",
-            "patrones":["hola","un saludo", "como va"],
-            "respuestas":["Hola que tal", "Como te va?", "Un gusto de verte"]
+            "tag": "saludo",
+            "patrones": [
+                "hola",
+                "un saludo",
+                "como va"
+            ],
+            "respuestas": [
+                "Hola que tal",
+                "Como te va?",
+                "Un gusto de verte"
+            ]
         },
         {
-            "tag":"despedida",
-            "patrones":["adios","hasta la proxima","nos vemos"],
-            "respuestas":["cuidate","nos vemos pronto"]
+            "tag": "despedida",
+            "patrones": [
+                "adios",
+                "hasta la proxima",
+                "nos vemos"
+            ],
+            "respuestas": [
+                "cuidate",
+                "nos vemos pronto"
+            ]
         },
         {
-            "tag":"estado actual",
-            "patrones":["que hacias?", "donde estas?", "todo bien?"],
-            "respuestas":["nada, aca","laburando","rascandome la chota", "mirando tele", "todo bien", "todo para el orto"]
+            "tag": "desayuno",
+            "patrones": [
+                "desayunar",
+                "hambre"
+            ],
+            "respuestas": [
+                "quieres comer?",
+                "desayunemos"
+            ]
+        },
+        {
+            "tag": "banda",
+            "patrones": [
+                "la banda",
+                "sos de la banda",
+                "no sos de la banda",
+                "ation",
+                "toide",
+                "nenu",
+                "ikir",
+                "litel",
+                "mono",
+                "verde",
+                "tano"
+            ],
+            "respuestas": [
+                "hola nenu",
+                "hola verde",
+                "hola ikir",
+                "hola mono",
+                "hola tano",
+                "hola litel",
+                "hola toide",
+                "hola ation",
+                "si no sos de la banda, tomatela"
+            ]
         }
-
     ]
 }
